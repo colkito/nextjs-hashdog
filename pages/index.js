@@ -3,6 +3,9 @@ import Layout from '../components/Layout'
 
 export default () => (
   <Layout title="Home">
-    <div>Welcome to next.js for Hashdog!</div>
+    <div className="text-center">
+      <p>Welcome to next.js for</p>
+      <img src="/static/img/logo.svg" className="logo-hashdog"/>
+    </div>
   </Layout>
 )
