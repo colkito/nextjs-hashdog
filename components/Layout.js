@@ -34,6 +34,11 @@ function Layout({children, title}) {
                 <a>About</a>
               </Link>
             </li>
+            <li>
+              <Link href="/hashflix">
+                <a>Hashflix</a>
+              </Link>
+            </li>
           </ul>
         </div>
       </nav>

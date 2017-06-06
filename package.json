@@ -12,6 +12,7 @@
   "author": "Mario Colque <mario@hashdog.com>",
   "license": "MIT",
   "dependencies": {
+    "axios": "^0.16.2",
     "next": "^2.4.1",
     "prop-types": "^15.5.10",
     "react": "^15.5.4",
