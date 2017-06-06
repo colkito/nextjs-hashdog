@@ -1,6 +1,9 @@
+// Ours
+import Layout from '../components/Layout'
+
 export default () => (
-  <div>
+  <Layout title="About">
     <h1>About</h1>
     <p>About content here</p>
-  </div>
+  </Layout>
 )

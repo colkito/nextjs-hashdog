@@ -1,3 +1,8 @@
+// Ours
+import Layout from '../components/Layout'
+
 export default () => (
-  <div>Welcome to next.js for Hashdog!</div>
+  <Layout title="Home">
+    <div>Welcome to next.js for Hashdog!</div>
+  </Layout>
 )
