@@ -18,6 +18,8 @@ function Layout({children, title}) {
 
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/css/bootstrap.min.css"/>
         <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans"/>
+
+        <link rel="stylesheet" href="/static/css/main.css"/>
       </Head>
 
       <nav className="navbar navbar-default">
