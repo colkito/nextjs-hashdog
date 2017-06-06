@@ -1,0 +1,19 @@
+{
+  "name": "nextjs-hashdog",
+  "version": "1.0.0",
+  "description": "A simple demo for Hashdog Team",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": "git@github.com:colkito/nextjs-hashdog.git",
+  "author": "Mario Colque <mario@hashdog.com>",
+  "license": "MIT",
+  "dependencies": {
+    "next": "^2.4.1",
+    "react": "^15.5.4",
+    "react-dom": "^15.5.4"
+  }
+}
